@@ -1,0 +1,5 @@
+token = '***REMOVED***'
+confirmation_token = '***REMOVED***'
+admin_token = '***REMOVED***'
+group_id = '***REMOVED***'
+message = 'Вы нарушили правила комментирования\n Комментарий должен быть больше 5 слов и не должен содержать ссылки \n Штраф 5 минут'
